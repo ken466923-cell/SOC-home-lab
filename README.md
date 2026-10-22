@@ -13,9 +13,6 @@ Build a small SIEM lab that collects logs from a Kali Linux VM, detects suspicio
 - **Detection:** Sigma-style YAML rules
 - **Alerting:** Wazuh dashboard
 
-## Status
-🚧 In progress — Week 1: lab setup.
-
 ## Documentation
 - [Week 1 Setup](docs/week1-setup.md)
 - [Project Journal](journal.md)
